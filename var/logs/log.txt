@@ -1,0 +1,2 @@
+[2018-10-08 11:05:54] my_logger.DEBUG: Home page requested! [] []
+[2018-10-08 11:06:19] my_logger.DEBUG: Home page requested! [] []
